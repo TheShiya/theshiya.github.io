@@ -16,6 +16,17 @@
       <header>
         <h3>Liushiya Chen</h3>
         
+        {% if site.github.is_user_page %}
+        <p class="view">
+          <a href="{{ site.github.owner_url }}">
+          <img src="img/github.png" alt="GitHub" width="20" height="20"/>
+          </a>
+          <a href="{{ site.github.owner_url }}">
+          <img src="img/linkedin.png" alt="LinkedIn" width="17" height="17"/>
+          </a>
+        </p>
+        {% endif %}
+        
         <img src="joshua_tree.png" />
         
         {% if site.logo %}
@@ -26,17 +37,6 @@
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view">
-          <a href="{{ site.github.owner_url }}">
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20" height="20"/>
-          </a>
-          <a href="{{ site.github.owner_url }}">
-          <img src="https://www.pngitem.com/pimgs/m/49-493540_linkedin-icon-png-black-linkedin-black-logo-png.png" alt="GitHub" width="17" height="17"/>
-          </a>
-        </p>
         {% endif %}        
 
         {% if site.show_downloads %}
