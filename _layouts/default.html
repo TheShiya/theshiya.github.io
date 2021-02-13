@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
     
@@ -14,17 +15,17 @@
   <body style="font-family: Inter,sans-serif">
     <div class="wrapper">
       <header>
-        <div style="color: #111">Liushiya Chen 诗雅</div>
+        <div style="color: #111; margin-bottom: 5px">Liushiya Chen 诗雅</div>
         
         {% if site.github.is_user_page %}
-        <p class="view">
+        <div style="color: #111; margin-bottom: 5px" class="view">
           <a href="{{ site.github.owner_url }}">
           <img src="img/github.png" alt="GitHub" width="20" height="20"/>
           </a>
           <a href="linkedin.com/in/liushiyachen">
           <img src="img/linkedin.png" alt="LinkedIn" width="20" height="20"/>
           </a>
-        </p>
+        </div>
         {% endif %}
         
         <img src="joshua_tree.png" />
