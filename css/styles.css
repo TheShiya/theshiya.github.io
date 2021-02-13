@@ -2,3 +2,8 @@ body {
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
     font-size: 10px;
 }
+
+a :hover {
+    color: #014d82;
+    font-decoration: underline;
+}
