@@ -1,8 +1,6 @@
 ## About
 
-M.S. Computer Science Candidate
-\
-B.A. Mathematics
+★★★★☆
 
 ## Projects
 
