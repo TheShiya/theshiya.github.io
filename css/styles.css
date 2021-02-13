@@ -1,3 +1,8 @@
 body {
     font-family: Inter,Helvetica Neue,sans-serif;
 }
+
+a :hover {
+    color: #014d82;
+    font-decoration: underline;
+}
