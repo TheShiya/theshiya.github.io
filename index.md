@@ -7,6 +7,7 @@
 ### Interests
 
 Python, math, martial arts, film
+
 <br>
 
 ### Projects
