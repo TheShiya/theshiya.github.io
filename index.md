@@ -1,10 +1,15 @@
-### ABOUT
+### About
 
 ★★★★☆
 
 <br>
 
-### PROJECTS
+### Interests
+
+Python, math, martial arts, film
+<br>
+
+### Projects
 
 * [Yelp Review Summarizer](https://github.com/TheShiya/yelp-review-summarizer)\
 A tool to scrape reviews from Yelp and summarize them using doc2vec and a lazy greedy discrete optimization algorithm.
