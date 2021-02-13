@@ -1,8 +1,8 @@
 ## About
 
 ★★★★☆
-\
-\
+
+<br>
 
 ## Projects
 
