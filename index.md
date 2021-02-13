@@ -1,10 +1,9 @@
-### About
+#### About
 
 ★★★★☆
 
-<br>
 
-### Projects
+#### Projects
 
 * [Yelp Review Summarizer](https://github.com/TheShiya/yelp-review-summarizer)\
 A tool to scrape reviews from Yelp and summarize them using doc2vec and a lazy greedy discrete optimization algorithm.
@@ -18,9 +17,8 @@ Scraped and performed time-series clustering on H-1B filings data. Explored corr
 * [Synthetic Control](https://github.com/TheShiya/synthetic-control-project)
 A demonstration of the synthetic control method for policy evaluation when the control set is infeasible to create.
 
-<br>
 
-### Interests
+#### Interests
 
 Python, math, martial arts, film
 
