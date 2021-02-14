@@ -8,7 +8,7 @@ Python, math, social science, martial arts, film
 a tool to scrape reviews from Yelp and summarize them using doc2vec and a lazy greedy discrete optimization algorithm.
 
 • [Forecasting Cable TV Customer Acquisition](https://github.com/TheShiya/past-academic-projects/blob/master/customer_acquisition_forecast.pdf) - 
-used gamma-Weibull model to model customer acquisition at the population-level. Incorporated and estimated effects of external factors such as population growth and seasonal promotions.
+used gamma-Weibull model to model customer acquisition at the population level. Incorporated and effects of covariates such as population growth and seasonal promotions.
 
 • [Black-Box LDA](https://github.com/TheShiya/lda-topic-modeling-with-pyro) - 
 an implementation of the LDA model within a probabilistic programming framework.
