@@ -8,7 +8,7 @@ Python, math, social science, martial arts, film
 a tool to scrape reviews from Yelp and summarize them using doc2vec and a lazy greedy discrete optimization algorithm.
 
 • [Forecasting Cable TV Customer Acquisition](https://github.com/TheShiya/past-academic-projects/blob/master/customer_acquisition_forecast.pdf) - 
-used gamma-Weibull model to model customer acquisition at the population level. Incorporated and effects of covariates such as population growth and seasonal promotions.
+used gamma-Weibull mixture to model customer acquisition at the population level. Incorporated effects of external factors, e.g. population growth and seasonal promotions.
 
 • [Synthetic Control](https://github.com/TheShiya/synthetic-control-project) - 
 a demonstration of the synthetic control method for policy evaluation when the control set is infeasible to create.
